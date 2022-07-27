@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51520e51.css",
+    "main.js": "/static/js/main.5a974b67.js",
+    "static/media/Avenir.woff.ttf": "/static/media/Avenir.woff.a75d65e7287a8ac490d1.ttf",
+    "index.html": "/index.html",
+    "main.51520e51.css.map": "/static/css/main.51520e51.css.map",
+    "main.5a974b67.js.map": "/static/js/main.5a974b67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51520e51.css",
+    "static/js/main.5a974b67.js"
+  ]
+}
